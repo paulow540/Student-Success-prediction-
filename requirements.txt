@@ -4,3 +4,4 @@ streamlit
 scikit-learn
 matplotlib
 altair<5 
+standard-imghdr
